@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\calculando-idade\bin\Debug\netcoreapp3.1\calculando-idade.exe
+C:\Users\dev\Desktop\calculando-idade\bin\Debug\netcoreapp3.1\calculando-idade.deps.json
+C:\Users\dev\Desktop\calculando-idade\bin\Debug\netcoreapp3.1\calculando-idade.runtimeconfig.json
+C:\Users\dev\Desktop\calculando-idade\bin\Debug\netcoreapp3.1\calculando-idade.runtimeconfig.dev.json
+C:\Users\dev\Desktop\calculando-idade\bin\Debug\netcoreapp3.1\calculando-idade.dll
+C:\Users\dev\Desktop\calculando-idade\bin\Debug\netcoreapp3.1\calculando-idade.pdb
+C:\Users\dev\Desktop\calculando-idade\obj\Debug\netcoreapp3.1\calculando-idade.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\calculando-idade\obj\Debug\netcoreapp3.1\calculando-idade.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\calculando-idade\obj\Debug\netcoreapp3.1\calculando-idade.AssemblyInfo.cs
+C:\Users\dev\Desktop\calculando-idade\obj\Debug\netcoreapp3.1\calculando-idade.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\calculando-idade\obj\Debug\netcoreapp3.1\calculando-idade.dll
+C:\Users\dev\Desktop\calculando-idade\obj\Debug\netcoreapp3.1\calculando-idade.pdb
+C:\Users\dev\Desktop\calculando-idade\obj\Debug\netcoreapp3.1\calculando-idade.genruntimeconfig.cache
